@@ -8,10 +8,9 @@ The project focuses on skincare awareness, beauty routines, common skin concerns
 
 ## 🎥 Project Demo
 
-Explore the complete project walkthrough showcasing the website's design, responsiveness, and functionality.
+Explore the complete project walkthrough showcasing the website's design, responsiveness, and key features.
 
-▶️ **Watch the Demo**
-https://youtu.be/TYoLQuOD7ZU
+▶️ **[Watch the Demo](https://youtu.be/TYoLQuOD7ZU)**
 
 ---
 
