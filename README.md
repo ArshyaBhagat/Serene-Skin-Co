@@ -6,15 +6,12 @@ Serene Skincare Co is a responsive skincare and beauty website developed using H
 
 The project focuses on skincare awareness, beauty routines, common skin concerns, skincare recommendations, and educational content through a modern and visually engaging user interface. It was developed as an academic frontend project emphasizing responsive web design, usability, and interactive user experiences.
 
----
-
 ## 🎥 Project Demo
 
-Watch the complete project demonstration here:
+Explore the complete project walkthrough showcasing the website's design, responsiveness, and functionality.
 
-**YouTube:** https://youtu.be/TYoLQuOD7ZU
-
----
+▶️ **Watch the Demo**
+https://youtu.be/TYoLQuOD7ZU
 
 ---
 
