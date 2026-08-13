@@ -56,8 +56,7 @@ Serene-Skincare-Co/
 │
 ├── SERENE Skincare CO_files/
 │
-├── homepg.html                 # Main website page
-├── index.html
+├── index.html                 # Main website page
 ├── SERENE Skincare CO.html
 │
 ├── About Us.html
@@ -113,7 +112,7 @@ cd Serene-Skincare-Co
 Simply open:
 
 ```text
-homepg.html
+index.html
 ```
 
 in your web browser.
