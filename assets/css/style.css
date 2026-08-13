@@ -1422,3 +1422,143 @@
     width: 100%;
     height: auto; /* Adjust height if needed */
 }
+
+
+
+
+/* =========================================
+   MOBILE FIX FOR CUSTOM CONTENT PAGES
+   ========================================= */
+
+@media (max-width: 767px) {
+
+  /* your existing card fix */
+  .card-content[style] {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 50px 20px !important;
+    overflow-x: hidden !important;
+  }
+
+  .card-content[style] > h1.hero-title {
+    width: 100% !important;
+    max-width: 100% !important;
+    font-size: 4rem !important;
+    line-height: 1.15 !important;
+    margin-bottom: 30px !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+  }
+
+  .card-content[style] > p {
+    width: 100% !important;
+    max-width: 100% !important;
+    font-size: 1.7rem !important;
+    line-height: 1.8 !important;
+    margin-bottom: 45px !important;
+  }
+
+  .card-content[style] > div[style] {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 0 30px 0 !important;
+    padding: 30px 25px !important;
+    box-sizing: border-box !important;
+  }
+
+  .card-content[style] > div[style] h2 {
+    width: 100% !important;
+    max-width: 100% !important;
+    font-size: 2.8rem !important;
+    line-height: 1.25 !important;
+    margin-bottom: 20px !important;
+  }
+
+  .card-content[style] > div[style] p {
+    width: 100% !important;
+    max-width: 100% !important;
+    font-size: 1.6rem !important;
+    line-height: 1.8 !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+  }
+
+}
+
+
+/* =========================================
+   MOBILE HEADER FIX
+   ========================================= */
+
+@media (max-width: 767px) {
+
+  .header {
+    padding-block-end: 0 !important;
+  }
+
+  .alert {
+    position: relative !important;
+    width: 100% !important;
+    padding: 12px 10px !important;
+    font-size: 1.2rem !important;
+    line-height: 1.4 !important;
+  }
+
+  .header-top {
+    position: relative !important;
+    top: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    padding-block: 20px !important;
+    transform: none !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+  }
+
+  .header-top.active {
+    position: relative !important;
+    top: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+  }
+
+  .header-top .container {
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 12px !important;
+  }
+
+  .header-top .hero-title {
+    font-size: 3.8rem !important;
+    line-height: 1.15 !important;
+    margin: 0 !important;
+    max-width: 230px !important;
+  }
+
+  .header-top .logo {
+    flex-shrink: 0 !important;
+  }
+
+  .header-top .logo img {
+    width: 65px !important;
+    height: auto !important;
+  }
+
+}
+
+/* =========================================
+   MOBILE FIX FOR CUSTOM HERO CONTAINERS
+   ========================================= */
+
+@media (max-width: 767px) {
+
+  section#home .has-bg-image {
+    padding: 60px 20px !important;
+    min-height: auto !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+}
